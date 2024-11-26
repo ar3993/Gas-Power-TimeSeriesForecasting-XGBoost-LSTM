@@ -23,6 +23,6 @@ In this notebook, I've used two methods for time series forecasting:
 
 I then measured the accuracy of the predictions by RMSE (Root Mean Squared Error) - it is a statistic which evaluates regression models to compare different models. The lower the RMSE, the better model it is at making predictions.
 
-Comparing the RMSEs, LSTM was a more accurate predictor for gas production, with the drawback being, that it gave extremely inaccurate predictions for a longer period of 2 weeks.
+Comparing the RMSEs, LSTM was a more accurate predictor for gas production, with the drawback being that it gave extremely inaccurate predictions for a longer period of 2 weeks.
 
 XGBoost had a higher RMSE, but did a better job at predicting a longer period of forecast. 
