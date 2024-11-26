@@ -21,7 +21,7 @@ In this notebook, I've used two methods for time series forecasting:
 
 2) LSTM - a type of recurrent neural network (RNN) that is designed to make predictions on a series of data. They can capture long-term dependencies in the input sequence and make predictions based on the learned patterns. LSTM has been used to forecast a one-day period of hourly gas production.
 
-I then measured the accuracy of the predictions by a using RMSE (Root Mean Squared Error) - it is a statistic which evaluates regression models to compare different models. The lower the RMSE, the better model it is at making predictions.
+I then measured the accuracy of the predictions by RMSE (Root Mean Squared Error) - it is a statistic which evaluates regression models to compare different models. The lower the RMSE, the better model it is at making predictions.
 
 Comparing the RMSEs, LSTM was a more accurate predictor for gas production, with the drawback being, that it gave extremely inaccurate predictions for a longer period of 2 weeks.
 
