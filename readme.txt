@@ -3,7 +3,7 @@ Gas Power Generation Forecasting
 The inspiration for this project came from my recent research proposal to Natural England for the production of a Risk Register in the State of Natural Capital Report. The report identifies Gas power generation as a significant source of NO2 and PM emissions in the UK.
 Although the share of renewables is increasing in the energy mix, Gas is still the most secure source of energy and will be so in the foreseeable future.
 To restrict air pollution emissions coming from power generation accurate forecasting of Gas power production is very important to ensure that gas power plants are only used when necessary which can help to reduce greenhouse gas emissions, improve grid reliability, and reduce costs.
-Thus, I decided to explore time series forecasting for gas power generation.
+Thus, it is vital to explore time series forecasting for gas power generation.
 
 The dataset used here is from The Modo Energy Platform. It is the hourly data collected from the 24th of June 2022 to the 25th of June 2023.
 
